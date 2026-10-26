@@ -1,1 +1,1 @@
-{"version":"1.2.0","url":"https://github.com/896199974-creator/E100ToolUpdate/releases/download/v1.2.0/E100Tool.exe","notes":"首次联网更新配置完成（GitHub 方式）"}
+{"version":"1.3.0","url":"https://github.com/896199974-creator/E100ToolUpdate/releases/download/v1.3.0/E100Tool.exe","notes":"修复：主窗口在125%缩放下底部被切出屏幕、日志与状态栏重叠、全选/抖动/串口标签等按钮英文文本截断；次级窗口改为可拉伸"}
