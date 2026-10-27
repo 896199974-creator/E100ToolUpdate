@@ -1,1 +1,1 @@
-{"version":"1.4.0","url":"https://github.com/896199974-creator/E100ToolUpdate/releases/download/v1.4.0/E100Tool.exe","notes":"1.4.0：新增型号NG标记+问题描述、一键测试、固件bin自动合并，修复搜索框/局域网窗口文字显示不全，去除参考代码提示框"}
+{"version": "1.4.1", "url": "https://github.com/896199974-creator/E100ToolUpdate/releases/download/v1.4.1/E100Tool.exe", "notes": "1.4.1：修复参考代码按钮被日志框遮挡、文字显示不全；宽高设置保存到型号默认参数；一键测试增加显示当前图片"}
